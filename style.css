@@ -1,0 +1,289 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+#flower-one{
+    background-color: #f8dce2
+    ;
+    height: 403px;
+
+
+   background-size: cover;
+   display: flex;
+   justify-content: space-between;
+   
+
+}
+
+.left-one h1{
+font-size: 60px
+}
+.left-one p{
+    font-size: 15px;
+    color: gray;
+}
+.left-one button{
+    border: none;
+    padding-left: 20px;
+    padding-top: 15px;
+    padding-right: 20px;
+    padding-bottom: 15px;
+    background-color: red;
+    color: white;
+    border-radius: 14%;
+}
+.right-one{margin-right: 100px;
+
+}
+.right-one img{
+    width: 350px;
+    height: 400px;
+    margin-right: 400px;
+    margin-top: 2px;
+}
+.left-one{
+    margin-left: 400px;
+}
+#flower-two p{
+color: gray;
+}
+#flower-two h1{
+    font-size: 40px;
+    margin-left: 40px;
+}
+#flower-two{
+    justify-content: center;
+     text-align: center;
+}
+.flower-three-one{
+    background-color: rgb(253, 171, 185);
+    height: 400px;
+    width: 300px;
+    border-top-left-radius: 45%;
+    border-top-right-radius: 45%;
+    margin-left: 150px;
+}
+.flower-three-one img{
+    width: 200px;
+    height: 300px;
+    margin-top: 100px;
+
+}
+.flower-three-two{
+    background-color: rgb(192, 228, 235);
+    height: 400px;
+    width: 300px;
+    border-top-left-radius: 45%;
+    border-top-right-radius:45%;}
+    .flower-three-two img{
+        width: 300px;
+        height: 300px;
+        margin-top: 100px;}
+        .flower-three-three{
+            background-color: rgb(212, 243, 204);
+            height: 400px;
+            width: 300px;
+            border-top-left-radius: 45%;
+            border-top-right-radius: 45%;;
+        margin-right: 150px;}
+            .flower-three-three img{
+                width: 300px;
+                height: 300px;
+                margin-top: 100px;}
+                #flower-three{
+                    display: flex;
+                    justify-content: space-between;
+                }
+                #flower-four{
+                    background-color: rgba(194, 194, 177, 0.829);
+                    margin-left: 150px;
+                    margin-right: 150px;
+                    height: 400px;
+                    display: flex;
+                    justify-content: space-between;
+                    
+                }
+                .man-one{margin-left: 150px;
+                    margin-top: 150px;
+
+                }
+                .man-one img{ margin-left: 130px;
+
+                }
+                .man-two{
+                    margin-right: 110px;
+                    margin-top: 145px;
+
+                }
+                .man-two img{ margin-left: 100px;
+
+                }
+                .man-three{ margin-right: 300px;
+                    margin-top: 150px;
+
+
+                }
+                .man-three img{margin-left: 45px;
+
+                }
+                #deal{
+                    background-color: #ece8e9;
+                    height: 500px;
+                    display: flex;
+                    justify-content: space-between;
+                }
+                .hot-deal-one h1{
+                    font-size: 60px;
+                }
+                .hot-deal-one p{
+                    color: gray;
+                    font-size: 24px;
+                }
+                .hot-deal-one{
+                    justify-content: center;
+                    text-align: center;
+                    margin-left: 300px;
+                    margin-top: 200px;
+            
+                }
+                .hot-deal-one button{
+                    background-color: rgb(248, 75, 75);
+                    padding-left: 40px;
+                    padding-right: 40px;
+                    padding-top: 25px;
+                    padding-bottom: 25px;
+                    color: white;
+                    border: none;
+                    border-radius: 15%;
+                    
+                }
+                .hot-deal-two img{
+                    width: 500px;
+                    height: 500px;
+
+                }
+            .hot-deal-two{
+                margin-right: 300px;
+            }
+            #insta{
+               justify-content: center;
+                text-align: center;
+            }
+            #insta h1{
+                font-size: 60px;
+
+            }
+            #insta p{
+                font-size: 25px;
+                margin-left: 30px;
+                color: gray;
+            }
+            #photo{
+                display: flex;
+                justify-content:space-between }
+                .pic-one{
+                    margin-left: 250px;
+                }
+                .pic-four{
+                    margin-right: 350px;
+                
+                }
+                #love{
+                    background-color: rgb(233, 238, 215);
+                    height: 700px;
+                    margin-left: 300px;
+                    margin-right: 300px;
+                    display: flex;
+                    justify-content: space-between;
+                    
+                }
+                .lv-text h1{
+                    font-size: 60px;
+                }
+                .lv-text p{
+                    font-family: cursive;
+                    font-size: 25px;
+                    margin-left: 50px;
+                    color: rgb(211, 157, 41);
+                }
+                .lv-two img{
+                    width: 400px;
+                    height: 700px;
+                }
+                .lv-two{
+                   
+                    margin-left: 100px;
+
+                }
+                .lv-one{
+                    margin-top: 118px;
+                }
+                .lv-text{
+                    margin-top: 300px;
+                }
+                #background{
+                    background-image: url(image/Rectangle\ 9.png);
+                    height: 500px;
+                    width: 100%;
+                    background-repeat: no-repeat;
+                    margin-left: 700px;
+                    
+                }
+            #write{
+                font-size: 30px;
+                justify-content: center;
+                text-align: center;
+                padding-right: 1400px;
+                padding-top: 100px;
+
+            }
+            #write p{
+                font-size: 20px;
+                
+            }
+            .box{
+             background-color: rgb(253, 253, 253);
+                height: 50px;
+                width: 600px;
+              margin-left: 300px;
+            }
+            .box h4{
+                color: gray;
+                font-size: 35px;}
+            #shadow{
+              display: flex;
+            }
+            .seven button{
+                    background-color: rgb(255, 0, 0);
+                    padding-left: 25px;
+                    padding-right: 25px;
+                    padding-top: 20px;
+                    padding-bottom: 20px;
+                    margin-left: 50px;
+                    border-radius: 20%;
+                    color: white;
+                    font-size: 20px;
+            }
+            #last-id{
+                background-color: black;
+                height: 700px;
+                background-size: cover;
+            }
+            .heading h1{
+                color: azure;
+                font-size: 60px;
+            }
+            .heading h3{
+                color:gray;
+            }
+            .heading{
+                text-align: center;
+                align-items: center;
+                justify-content: center;
+                padding-top: 200px;
+            }
+            .heading p{
+
+                color: azure;
+                margin-left: 80px;
+            }
